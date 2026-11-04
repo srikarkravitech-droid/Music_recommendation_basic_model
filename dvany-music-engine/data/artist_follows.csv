@@ -1,0 +1,9 @@
+user_id,artist_id,action,event_date
+u001,a01,follow,2026-08-26
+u001,a05,follow,2026-10-03
+u001,a07,follow,2026-09-25
+u001,a07,unfollow,2026-09-26
+u002,a06,follow,2026-08-31
+u002,a08,follow,2026-10-05
+u003,a03,follow,2026-09-15
+u003,a07,follow,2026-09-20

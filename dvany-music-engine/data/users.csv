@@ -1,0 +1,5 @@
+user_id,region_code,city,preferred_languages
+u001,IN-TS-HYD,Hyderabad,Telugu|Hindi
+u002,IN-MH-MUM,Mumbai,Hindi|English
+u003,IN-KA-BLR,Bengaluru,English|Kannada
+u004,IN-TS-WGL,Warangal,Telugu

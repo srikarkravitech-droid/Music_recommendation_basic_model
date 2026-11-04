@@ -1,0 +1,41 @@
+song_id,title,artist_id,artist_name,genres,release_date,language,available
+s001,Moonlight Drive,a01,Neon Harbor,pop|indie,2025-09-20,English,true
+s002,Glass Skyline,a01,Neon Harbor,pop,2026-05-28,English,true
+s003,Paper Lanterns,a01,Neon Harbor,pop|indie,2026-10-13,English,true
+s004,Midnight Static,a01,Neon Harbor,pop|electronic,2026-08-16,English,true
+s005,Golden Hour Loop,a01,Neon Harbor,indie,2026-10-22,English,true
+s006,Rain On Tin Roofs,a02,Riya & The Monsoons,indie|folk,2025-12-29,English,true
+s007,Chai Stains,a02,Riya & The Monsoons,indie|folk,2026-03-19,Hindi,true
+s008,Barefoot Road,a02,Riya & The Monsoons,folk,2026-07-27,Telugu,true
+s009,Lantern Fields,a02,Riya & The Monsoons,indie|folk,2026-10-05,Hindi,true
+s010,Slow Train Home,a02,Riya & The Monsoons,folk,2025-03-04,English,true
+s011,Voltage Bloom,a03,Delta Circuit,electronic|house,2026-04-08,English,true
+s012,Night Bus To Nowhere,a03,Delta Circuit,electronic,2026-09-10,English,true
+s013,Pulse Garden,a03,Delta Circuit,house|electronic,2026-10-17,English,true
+s014,Static Saints,a03,Delta Circuit,electronic|pop,2026-06-17,English,true
+s015,Afterglow Protocol,a03,Delta Circuit,electronic,2026-11-04,English,true
+s016,Raga Rewired,a04,Kaveri Strings,classical|fusion,2025-06-12,Instrumental,true
+s017,Veena Nights,a04,Kaveri Strings,classical,2026-02-07,Instrumental,true
+s018,Monsoon Alap,a04,Kaveri Strings,classical|fusion,2026-09-27,Instrumental,true
+s019,Temple Bells Remix,a04,Kaveri Strings,fusion|electronic,2026-07-17,Instrumental,true
+s020,Sitar Sunrise,a04,Kaveri Strings,classical,2026-09-24,Instrumental,true
+s021,Hyderabad Hustle,a05,Block Seven,hip-hop|rap,2026-08-06,Telugu,true
+s022,Concrete Poetry,a05,Block Seven,hip-hop|rap,2026-05-18,English,true
+s023,Charminar Cypher,a05,Block Seven,hip-hop,2026-10-20,Telugu,true
+s024,Late Fee,a05,Block Seven,rap,2025-11-09,English,true
+s025,Gully Gold,a05,Block Seven,hip-hop|pop,2026-09-15,Hindi,false
+s026,Dil Ka Postcard,a06,Saffron Skies,pop|filmi,2026-08-26,Hindi,true
+s027,Baarish Wali Raat,a06,Saffron Skies,filmi,2026-10-10,Hindi,true
+s028,Sundari Sundari,a06,Saffron Skies,pop|filmi,2026-07-07,Telugu,true
+s029,Pyaar Ki Playlist,a06,Saffron Skies,pop|filmi,2026-02-27,Hindi,true
+s030,Mehndi Beats,a06,Saffron Skies,filmi|pop,,Hindi,true
+s031,Thunder Ledger,a07,Iron Lantern,rock|metal,2025-08-31,English,true
+s032,Broken Compass,a07,Iron Lantern,rock,2026-04-28,English,true
+s033,Steel Monsoon,a07,Iron Lantern,rock|metal,2026-10-03,English,true
+s034,Ash And Ember,a07,Iron Lantern,rock,2026-08-11,English,true
+s035,Last Train Riot,a07,Iron Lantern,rock|punk,2024-11-24,English,true
+s036,Blue Hour Letters,a08,Velvet Hours,jazz|r&b,2026-06-07,English,true
+s037,Honey In The Rain,a08,Velvet Hours,lofi|r&b,2026-07-22,English,true
+s038,Coffee At Two,a08,Velvet Hours,jazz|lofi,2026-09-30,English,true
+s039,Satin Skyline,a08,Velvet Hours,r&b|pop,2026-10-15,English,true
+s040,Quiet Neon,a08,Velvet Hours,lofi|jazz,2026-08-31,English,true

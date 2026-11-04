@@ -1,0 +1,26 @@
+user_id,shelf,rank,song_id,title,artist_name,score,reasons
+u001,for_you,1,s003,Paper Lanterns,Neon Harbor,1.0,Because you like indie; By an artist you follow
+u001,for_you,2,s007,Chai Stains,Riya & The Monsoons,0.94,Because you like indie; By an artist you like
+u001,for_you,3,s009,Lantern Fields,Riya & The Monsoons,0.94,Because you like indie; By an artist you like
+u001,for_you,4,s010,Slow Train Home,Riya & The Monsoons,0.8733,Because you like folk; By an artist you like
+u001,for_you,5,s023,Charminar Cypher,Block Seven,0.7333,Because you like hip-hop; By an artist you follow
+u001,for_you,6,s024,Late Fee,Block Seven,0.7333,Because you like rap; By an artist you follow
+u001,for_you,7,s001,Moonlight Drive,Neon Harbor,0.665,Because you like indie; By an artist you follow
+u001,for_you,8,s005,Golden Hour Loop,Neon Harbor,0.665,Because you like indie; By an artist you follow
+u001,for_you,9,s006,Rain On Tin Roofs,Riya & The Monsoons,0.623,Because you like indie; By an artist you like
+u001,for_you,10,s008,Barefoot Road,Riya & The Monsoons,0.5763,Because you like folk; By an artist you like
+u001,popular_in_your_area,1,s039,Satin Skyline,Velvet Hours,1.0,"Trending in Hyderabad; 1,116 plays, 433 listeners in the last 7 days"
+u001,popular_in_your_area,2,s021,Hyderabad Hustle,Block Seven,0.9478,"Trending in Hyderabad; 900 plays, 335 listeners in the last 7 days"
+u001,popular_in_your_area,3,s022,Concrete Poetry,Block Seven,0.9381,"Trending in Hyderabad; 764 plays, 336 listeners in the last 7 days"
+u001,popular_in_your_area,4,s029,Pyaar Ki Playlist,Saffron Skies,0.9295,"Trending in Hyderabad; 768 plays, 315 listeners in the last 7 days"
+u001,popular_in_your_area,5,s023,Charminar Cypher,Block Seven,0.9242,"Trending in Hyderabad; 734 plays, 295 listeners in the last 7 days"
+u001,popular_in_your_area,6,s030,Mehndi Beats,Saffron Skies,0.8997,"Trending in Hyderabad; 628 plays, 243 listeners in the last 7 days"
+u001,popular_in_your_area,7,s007,Chai Stains,Riya & The Monsoons,0.8913,"Trending in Hyderabad; 618 plays, 245 listeners in the last 7 days"
+u001,popular_in_your_area,8,s001,Moonlight Drive,Neon Harbor,0.8867,"Trending in Hyderabad; 602 plays, 225 listeners in the last 7 days"
+u001,popular_in_your_area,9,s003,Paper Lanterns,Neon Harbor,0.8866,"Trending in Hyderabad; 592 plays, 239 listeners in the last 7 days"
+u001,popular_in_your_area,10,s006,Rain On Tin Roofs,Riya & The Monsoons,0.8698,"Trending in Hyderabad; 567 plays, 217 listeners in the last 7 days"
+u001,new_releases_from_your_artists,1,s005,Golden Hour Loop,Neon Harbor,0.97,New release from an artist you follow; Released 3 days ago
+u001,new_releases_from_your_artists,2,s023,Charminar Cypher,Block Seven,0.95,New release from an artist you follow; Released 5 days ago
+u001,new_releases_from_your_artists,3,s003,Paper Lanterns,Neon Harbor,0.88,New release from an artist you follow; Released 12 days ago
+u001,new_releases_from_your_artists,4,s009,Lantern Fields,Riya & The Monsoons,0.7067,New release from an artist you like; Released 20 days ago
+u001,new_releases_from_your_artists,5,s027,Baarish Wali Raat,Saffron Skies,0.1967,New release from an artist you like; Released 15 days ago
